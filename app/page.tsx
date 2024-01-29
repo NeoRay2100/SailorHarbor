@@ -108,10 +108,10 @@ export default function Chat() {
               className="h-20 w-20"
             />
             <h1 className="text-lg font-semibold text-black">
-              HongHong
+              说服老丈人
             </h1>
             <p className="text-gray-500">
-              我是哄哄模拟器的开源版，基于 Gemini AI + Next.js + Vercel 构建
+              参考哄哄模拟器的开源版，基于 Gemini AI + Next.js + Vercel 构建
             </p>
           </div>
           <div className="flex flex-col space-y-4 border-t border-gray-200 bg-gray-50 p-7 sm:p-10">
