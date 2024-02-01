@@ -5,9 +5,9 @@ import { GoogleAnalytics, UmamiAnalytics } from '@/components/Analytics'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: "我是哄哄模拟器的开源版，基于 Gemini AI + Next.js + Vercel 构建",
+  title: "老丈人模拟器",
   description:
-    "这是哄哄模拟器的开源版，基于 Gemini AI + Next.js + Vercel 构建"
+    "老丈人模拟器"
 }
 
 export default function RootLayout({
@@ -23,16 +23,16 @@ export default function RootLayout({
       <link rel="manifest" href="/site.webmanifest"></link>
       <meta
         name="description"
-        content="哄哄模拟器开源版"
+        content="老丈人模拟器"
       />
       <meta
         property="og:description"
-        content="哄哄模拟器开源版"
+        content="老丈人模拟器"
       />
-      <meta property="og:title" content="哄哄模拟器开源版" />
+      <meta property="og:title" content="老丈人模拟器" />
       <meta
         name="twitter:description"
-        content="哄哄模拟器开源版"
+        content="老丈人模拟器"
       />
       <meta
         property="og:image"
@@ -40,8 +40,8 @@ export default function RootLayout({
       />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@JOJOhanbo" />
-      <meta name="twitter:title" content="哄哄模拟器开源版" />
-      <meta name="twitter:description" content="哄哄模拟器开源版" />
+      <meta name="twitter:title" content="老丈人模拟器" />
+      <meta name="twitter:description" content="老丈人模拟器" />
       <meta name="twitter:image" content="https://hong.azhubaby.com/og-image.png" />
       <meta name="twitter:creator" content="@JOJOhanbo" />
       <meta name="google-site-verification" content={process.env.GOOGLE_CONSOLE} />
