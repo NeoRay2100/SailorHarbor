@@ -12,7 +12,7 @@ export default function Footer() {
         如果你战胜了丈母娘，相信我，困难刚刚开始，去<a href="https://hong.azhubaby.com/">  哄哄模拟器  </a>试试哄哄女朋友吧
         
       </p>
-      <p>Powered by hong.azhubaby.com rights reserved.</p>
+      <p>Powered by hong.azhubaby.com</p>
     </div>
   );
 }
