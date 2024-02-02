@@ -43,7 +43,7 @@ export default function Chat() {
 
   return (
     <main className="flex flex-col items-center justify-between pb-40">
-      <div className="absolute top-5 hidden w-full justify-between px-5 sm:flex">
+{/*       <div className="absolute top-5 hidden w-full justify-between px-5 sm:flex">
         <a
           href="https://hong.azhubaby.com"
           target="_blank"
@@ -63,7 +63,7 @@ export default function Chat() {
         >
           <GithubIcon />
         </a>
-      </div>
+      </div> */}
       {messages.length > 0 ? (
         messages.map((message, i) => (
           <div
