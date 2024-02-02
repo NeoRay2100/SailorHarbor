@@ -4,6 +4,7 @@ import { VercelIcon, GithubIcon } from "@/components/Icons";
 export default function Footer() {
   return (
     <div className="text-center text-xs text-gray-400">
+      <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
       <span id="busuanzi_container_site_pv">
         你是第  <span id="busuanzi_value_site_pv"></span>  试图说服丈母娘的人
       </span>
